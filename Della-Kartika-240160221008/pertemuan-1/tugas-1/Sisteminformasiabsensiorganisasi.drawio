@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Page-1" id="SgRsnM3n_dQtJZMTtQko">
+    <mxGraphModel dx="968" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lgAqoz0Az9U6-Sv5vnJX-2" edge="1" parent="1" source="UMgMCi4yHbh6XaDDsS8x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UMgMCi4yHbh6XaDDsS8x-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMgMCi4yHbh6XaDDsS8x-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="CLIENT&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Web / Postman&amp;nbsp; &amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="350" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lgAqoz0Az9U6-Sv5vnJX-3" edge="1" parent="1" source="UMgMCi4yHbh6XaDDsS8x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UMgMCi4yHbh6XaDDsS8x-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMgMCi4yHbh6XaDDsS8x-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&amp;nbsp;BACK END/A&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PI&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Sistem Informasi&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Absensi Organisasi&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="350" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UMgMCi4yHbh6XaDDsS8x-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="DATABASE&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Anggota&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Absensi&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="350" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lgAqoz0Az9U6-Sv5vnJX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SISTEM INFORMASI ABSENSI ORGANISASI&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DELL A KARTIKA 240160221008&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="500" x="175" y="-25" as="geometry" />
+        </mxCell>
+        <mxCell id="lgAqoz0Az9U6-Sv5vnJX-6" edge="1" parent="1" source="UMgMCi4yHbh6XaDDsS8x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" target="UMgMCi4yHbh6XaDDsS8x-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="485" />
+              <mxPoint x="220" y="124.56" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lgAqoz0Az9U6-Sv5vnJX-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="HTTP Request" vertex="1">
+          <mxGeometry height="30" width="100" x="410" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lgAqoz0Az9U6-Sv5vnJX-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="Query/Data" vertex="1">
+          <mxGeometry height="40" width="90" x="410" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="lgAqoz0Az9U6-Sv5vnJX-9" parent="1" style="text;whiteSpace=wrap;html=1;" value="HTTP Response" vertex="1">
+          <mxGeometry height="40" width="120" x="230" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9xjEfinhvCKPfChLAnIu" name="Page-2">
+    <mxGraphModel dx="774" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
