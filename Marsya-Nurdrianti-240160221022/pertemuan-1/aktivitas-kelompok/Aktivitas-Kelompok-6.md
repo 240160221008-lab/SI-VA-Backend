@@ -13,7 +13,7 @@ Studi kasus yang dibahas dalam aktivitas kelompok adalah **Canva** dengan fokus 
 
 ## Link Presentasi Canva
 
-[Klik untuk membuka presentasi Canva](https://canva.link/vn2x3p7614xdkjh)
+[Klik untuk membuka presentasi Canva](https://canva.link/imbazdr9hnpfefh)
 
 ## Struktur Materi yang Dibahas
 
