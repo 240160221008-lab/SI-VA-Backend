@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nama": "Resa Khoerunnisa",
+    "nim": "240160221038",
+    "prodi": "Sistem Informasi"
+  },
+  {
+    "id": 2,
+    "nama": "Andi",
+    "nim": "240160221039",
+    "prodi": "Sistem Informasi"
+  },
+  {
+    "id": 3,
+    "nama": "Siti",
+    "nim": "240160221040",
+    "prodi": "Sistem Informasi"
+  }
+]
