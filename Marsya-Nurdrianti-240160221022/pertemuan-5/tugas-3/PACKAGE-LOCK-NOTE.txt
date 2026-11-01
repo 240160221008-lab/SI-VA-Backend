@@ -1,0 +1,4 @@
+package-lock.json akan dibuat otomatis di komputer kamu.
+Setelah mengekstrak project, buka terminal pada folder ini dan jalankan:
+  npm install
+Perintah tersebut akan memasang Express.js dan membuat package-lock.json yang sesuai.
