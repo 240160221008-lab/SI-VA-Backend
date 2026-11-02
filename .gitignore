@@ -1,9 +1,1 @@
-node_modules/
-.env
-prisma/*.db
-generated/
-
-*.db
-env
-
 __pycache__/
