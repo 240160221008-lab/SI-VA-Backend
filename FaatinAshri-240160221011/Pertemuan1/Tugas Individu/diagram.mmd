@@ -1,0 +1,10 @@
+sequenceDiagram
+    autonumber
+    actor Client as 📱 Client (Web / Mobile)
+    participant BE as 🖥️ Back End (API)
+    participant DB as 🗄️ Database
+
+    Client->>BE: HTTP Request
+    BE->>DB: Database Query
+    DB-->>BE: Data Result
+    BE-->>Client: HTTP Response (JSON)

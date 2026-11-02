@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nama": "Raihan Anugrah Pratama",
+    "nim": "240160221036",
+    "jurusan": "Informatika"
+  },
+  {
+    "id": 2,
+    "nama": "Sarah Azkiya",
+    "nim": "240160221057",
+    "jurusan": "Informatika"
+  },
+  {
+    "id": 3,
+    "nama": "Yosep Adipura Herdi",
+    "nim": "240160221048",
+    "jurusan": "Informatika"
+  }
+]

@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="oruKvnij86Xaeq70TV1D">
+    <mxGraphModel dx="1229" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hIa83IexYOrZzA8TlxPD-6" edge="1" parent="1" source="hIa83IexYOrZzA8TlxPD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hIa83IexYOrZzA8TlxPD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="205" x="220" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Client" vertex="1">
+          <mxGeometry height="30" width="60" x="292.5" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="Sistem Informasi Perpustakaan&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fauzan Zainul Arifin&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="420" x="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Web/Postman" vertex="1">
+          <mxGeometry height="30" width="60" x="292.5" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-12" edge="1" parent="1" source="hIa83IexYOrZzA8TlxPD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hIa83IexYOrZzA8TlxPD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="205" x="220" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="HTTP Request" vertex="1">
+          <mxGeometry height="30" width="140" x="355" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Backend/API" vertex="1">
+          <mxGeometry height="30" width="60" x="292.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Sistem Informasi Perpustakaan" vertex="1">
+          <mxGeometry height="30" width="167.5" x="238.75" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-18" edge="1" parent="1" source="hIa83IexYOrZzA8TlxPD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hIa83IexYOrZzA8TlxPD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="683.71" />
+              <mxPoint x="70" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="167.5" width="167.5" x="238.75" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Query/Data" vertex="1">
+          <mxGeometry height="30" width="140" x="355" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Database" vertex="1">
+          <mxGeometry height="30" width="60" x="295" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="- Buku&lt;div&gt;-Anggota&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="97.5" x="273.75" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="hIa83IexYOrZzA8TlxPD-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="HTTP Respone" vertex="1">
+          <mxGeometry height="30" width="140" x="98.75" y="630" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
