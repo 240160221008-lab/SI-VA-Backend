@@ -169,6 +169,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/fauzan">
+        <img src="https://avatars.githubusercontent.com/u/192761?v=4&s=200" width="100px;" alt="fauzan"/><br>
+        <sub><b>fauzan</b></sub>
+      </a><br>
+      <sub>240160221014</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/kifu">
         <img src="https://avatars.githubusercontent.com/u/136690241?v=4&s=200" width="100px;" alt="kifu"/><br>
         <sub><b>sai</b></sub>
